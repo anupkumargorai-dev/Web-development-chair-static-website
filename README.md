@@ -1,6 +1,6 @@
 # Web-development-chair-static-website
 
-**Tech stach used**
+**Tech stack used**
 1. HTML
 2. CSS
 
